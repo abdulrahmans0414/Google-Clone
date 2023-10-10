@@ -1,0 +1,51 @@
+.main{
+
+    margin-top: 150px;
+
+
+}
+   
+
+
+.logo-img{
+   
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+.search-input {
+    display: block;
+    width: 400px;
+   line-height: 24px;
+    border: 1px solid #dfe1e5;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 30px;
+    background: #dfe1e5;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.btn-wrapper{
+    display: flex;
+    justify-content:center;
+   
+}
